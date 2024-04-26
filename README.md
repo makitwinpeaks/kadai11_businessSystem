@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://twinpeaks-tokyo.sakura.ne.jp/kadai11/
 
 ## ④工夫した点・こだわった点
 
